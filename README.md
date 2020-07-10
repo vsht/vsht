@@ -9,5 +9,5 @@ Currently I'm on my [second postdoc](https://www.ttp.kit.edu/memberpages/shtabov
 I received my PhD (Dr. rer. nat) in theoretical particle physics from the \
 [Technical University of Munich (TUM)](https://www.tum.de/) in 2017.
 
-You can find more about my academic career on my [ORCID profile](https://orcid.org/0000-0002-2782-3694).
-and my [INSPIRE profile](https://inspirehep.net/authors/1445066)
+You can find more about my academic career and my research by visiting my [ORCID](https://orcid.org/0000-0002-2782-3694)
+and my [INSPIRE](https://inspirehep.net/authors/1445066) profiles.
